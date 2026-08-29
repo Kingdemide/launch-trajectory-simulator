@@ -67,7 +67,7 @@ When the launch angle was kept at 45°, increasing the initial speed increased t
 
 ## Project files
 
- — MATLAB code version [launch_trajectory_simulator.m]([https://yourwebsite.com](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.m)).
+ — MATLAB code version [launch_trajectory_simulator.m]([https://yourwebsite.com](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.m).
 - `launch_trajectory_simulator.mlx` — MATLAB Live Script containing the full project
 - `launch_trajectory_simulator.pdf` — exported project report
 - `trajectory_comparison.png` — trajectory comparison graph
