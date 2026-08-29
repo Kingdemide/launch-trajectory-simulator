@@ -71,7 +71,7 @@ When the launch angle was kept at 45°, increasing the initial speed increased t
  
  — MATLAB Live Script containing the full project [launch_trajectory_simulator.mlx](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.mlx)
  
-  — MATLAB Live Script containing the full project [launch_trajectory_simulator.pdf](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.pdf)
+ — Exported project report [launch_trajectory_simulator.pdf](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.pdf)
   
  — Trajectory comparison graph [trajectory_comparison.png](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/trajectory_comparison.png)
 
@@ -79,7 +79,7 @@ When the launch angle was kept at 45°, increasing the initial speed increased t
 
 Open [launch_trajectory_simulator.m](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.m) in MATLAB.
 
-Run the Live Script using the **Run** button.
+[Run the Live Script](https://github.com/Kingdemide/launch-trajectory-simulator/blob/main/launch-trajectory-simulator/launch_trajectory_simulator.mlx) using the **Run** button.
 
 The script will calculate the projectile motion, compare different launch angles and initial speeds, produce graphs and perform validation checks.
 
